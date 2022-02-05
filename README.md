@@ -41,7 +41,9 @@ Rekeying is a powerful protocol feature which enables an Algorand account holder
 
 
 
-## Preview demo video on YouTube
+## Preview demo video 
+
+[click here to watch on YouTube](https://youtu.be/05yIP-qD8cs)
 
 
 ### Read Article ( Understanding Rekeying with Algorand ) on HASHNODE 
